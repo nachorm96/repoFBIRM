@@ -1,3 +1,3 @@
 console.log(river);
 
-console.log('El millonario')
+console.log('El millonario');
